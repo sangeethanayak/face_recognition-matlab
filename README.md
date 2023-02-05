@@ -1,6 +1,11 @@
 # face_recognition-matlab
-Face recognition and attendance management system using MATLAB
-- [ ] Adding Database
-- [ ] Button controlled operations
-- [x] Google sheet generation
+Face recognition
+</br>
+</br>
+To Do List
+<ul>
+<li>Generating Table</li>
+<li>Exporting Table to Spreadsheets</li>
+<li>Accuracy Testing</li>
+</ul>
 

@@ -54,3 +54,5 @@ while true
         drawnow;
     end
 end
+%After capturing the images save the images in the folder named load_data
+%Create different subfolders to store images of different persons
